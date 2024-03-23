@@ -1,0 +1,13 @@
+func doSomething() {
+  print("Doing something with... ");
+};
+
+func helloWorld(x, y) {
+  print(x, " ", y);
+};
+
+
+doSomething();
+print("-----------------------");
+helloWorld("Hello", "World");
+print(y);

@@ -1,0 +1,22 @@
+{
+  "files.associations": {
+    "*.excalidraw": "json",
+    "*.excalidrawlib": "json",
+    "stdio.h": "c",
+    "lexer.h": "c",
+    "ctype.h": "c",
+    "string.h": "c",
+    "token.h": "c",
+    "types.h": "c",
+    "stdlib.h": "c",
+    "type_traits": "c",
+    "ast.h": "c",
+    "parser.h": "c",
+    "compare": "c",
+    "limits": "c",
+    "new": "c",
+    "visitor.h": "c",
+    "io.h": "c",
+    "functions.h": "c"
+  }
+}

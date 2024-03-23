@@ -1,0 +1,1 @@
+char* get_file_contents(char* filePath);

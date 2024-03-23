@@ -1,0 +1,6 @@
+var str myName = "Jon Adams";
+print("Hello ", myName, "!");
+
+var int myNum = 12345;
+print("Your number is: ", myNum);
+
